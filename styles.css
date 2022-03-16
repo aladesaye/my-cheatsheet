@@ -1,0 +1,30 @@
+body{
+    font-family: Monospace,helvetica,'Times New Roman';
+    text-align: center;
+    background-color: lightyellow;
+  }
+  table{
+    border: 2px solid black;
+   
+  }
+  th{
+    border-bottom: 1px solid black;
+    border-right: 2px solid black;
+  }
+  td{
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+  }
+  h1,h2,table{
+    margin: 50px
+  }
+  
+  #attributes h2{
+    margin-top: 100px;
+  }
+  a{
+    color:blue;
+  }
+  a:hover{
+    color: grey;
+  }
